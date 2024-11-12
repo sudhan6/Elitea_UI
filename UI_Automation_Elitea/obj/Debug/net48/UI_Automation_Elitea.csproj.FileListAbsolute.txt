@@ -1,0 +1,7 @@
+C:\Sudhan-repos\practice_question\Phase Two Training\Elitea-UI\UI_Automation_Elitea\UI_Automation_Elitea\obj\Debug\net48\UI_Automation_Elitea.csproj.AssemblyReference.cache
+C:\Sudhan-repos\practice_question\Phase Two Training\Elitea-UI\UI_Automation_Elitea\UI_Automation_Elitea\obj\Debug\net48\UI_Automation_Elitea.csproj.SuggestedBindingRedirects.cache
+C:\Sudhan-repos\practice_question\Phase Two Training\Elitea-UI\UI_Automation_Elitea\UI_Automation_Elitea\obj\Debug\net48\UI_Automation_Elitea.dll.config
+C:\Sudhan-repos\practice_question\Phase Two Training\Elitea-UI\UI_Automation_Elitea\UI_Automation_Elitea\obj\Debug\net48\UI_Automation_Elitea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sudhan-repos\practice_question\Phase Two Training\Elitea-UI\UI_Automation_Elitea\UI_Automation_Elitea\obj\Debug\net48\UI_Automation_Elitea.AssemblyInfoInputs.cache
+C:\Sudhan-repos\practice_question\Phase Two Training\Elitea-UI\UI_Automation_Elitea\UI_Automation_Elitea\obj\Debug\net48\UI_Automation_Elitea.AssemblyInfo.cs
+C:\Sudhan-repos\practice_question\Phase Two Training\Elitea-UI\UI_Automation_Elitea\UI_Automation_Elitea\obj\Debug\net48\UI_Automation_Elitea.csproj.CoreCompileInputs.cache

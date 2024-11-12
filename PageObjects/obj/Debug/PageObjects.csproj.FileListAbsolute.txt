@@ -1,0 +1,6 @@
+C:\Sudhan-repos\practice_question\Phase Two Training\Elitea-UI\UI_Automation_Elitea\PageObjects\bin\Debug\PageObjects.dll
+C:\Sudhan-repos\practice_question\Phase Two Training\Elitea-UI\UI_Automation_Elitea\PageObjects\bin\Debug\PageObjects.pdb
+C:\Sudhan-repos\practice_question\Phase Two Training\Elitea-UI\UI_Automation_Elitea\PageObjects\obj\Debug\PageObjects.csproj.AssemblyReference.cache
+C:\Sudhan-repos\practice_question\Phase Two Training\Elitea-UI\UI_Automation_Elitea\PageObjects\obj\Debug\PageObjects.csproj.CoreCompileInputs.cache
+C:\Sudhan-repos\practice_question\Phase Two Training\Elitea-UI\UI_Automation_Elitea\PageObjects\obj\Debug\PageObjects.dll
+C:\Sudhan-repos\practice_question\Phase Two Training\Elitea-UI\UI_Automation_Elitea\PageObjects\obj\Debug\PageObjects.pdb
